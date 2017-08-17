@@ -1,0 +1,16 @@
+{
+  "name": "native-jsonp",
+  "version": "1.0.0",
+  "description": "native-jsonp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
